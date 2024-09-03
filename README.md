@@ -36,9 +36,6 @@ I pride myself on my ability to understand your business needs and transform the
 - **Platforms:** ![Bubble](https://img.shields.io/badge/Bubble-1E1E1E?style=for-the-badge&logo=bubble&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🎨 UI/UX
-- **Frontend Frameworks:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&
-
-### 🎨 UI/UX
 - **Frontend Frameworks:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # 🏭 Industries I've Worked With
@@ -67,7 +64,7 @@ My approach to development is centered around **innovation**, **scalability**, a
 4. **Quality Assurance**: Rigorous testing and quality checks are integral to my process, ensuring a flawless final product.
 5. **Continuous Support**: My commitment doesn't end at delivery. I provide ongoing support and updates to ensure your solution continues to perform at its best.
 
-# 📞 Let’s Collaborate!
+# 📞 Let’s Collaborate! ![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-green?style=flat&logo=github)
 
 I'm excited to bring my expertise to your next project. Whether you need a powerful AI solution, a scalable web application, or a sleek mobile app, I'm here to help. Let's work together to turn your ideas into reality.
 
